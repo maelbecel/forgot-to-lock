@@ -1,0 +1,2 @@
+echo "export GCC_COLORS='error=07;05;32;101:warning=07;05;96;105:note=07;05;92;41:caret=07;05;93;44:locus=07;05;42;95:quote=07;05;93;106'" >> ~/.bashrc
+echo "export GCC_COLORS='error=07;05;32;101:warning=07;05;96;105:note=07;05;92;41:caret=07;05;93;44:locus=07;05;42;95:quote=07;05;93;106'" >> ~/.zshrc
