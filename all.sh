@@ -7,3 +7,4 @@
 #./the_world_upside_down.sh
 ./wait_a_minute.sh
 ./who_are_you.sh
+./who_lives_in_a_pineapple.sh
