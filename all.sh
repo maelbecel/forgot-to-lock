@@ -6,3 +6,4 @@
 ./the_wati_gang.sh
 #./the_world_upside_down.sh
 ./wait_a_minute.sh
+./who_are_you.sh
