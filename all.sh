@@ -10,3 +10,4 @@
 ./who_lives_in_a_pineapple.sh
 ./you_cant_do_that.sh
 ./where_re_you_from.sh
+./fail_stumper.sh
